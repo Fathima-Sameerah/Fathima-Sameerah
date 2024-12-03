@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Fathima Sameerah  
 
 Welcome to my GitHub profile!
-🌟 Undergraduate in Information Communication Technology
-🎓 Specialized in Software Technology | Web Developer 
-📍 Sri Lanka
+- 🌟 Undergraduate in Information Communication Technology
+- 🎓 Specialized in Software Technology | Web Developer 
+- 📍 Sri Lanka
 
 ---
 
 ## 📫 Let's Connect  
 
-- **Email**: [sameerahsamuil@gmail.com](mailto:sameerahsamuil@gnail.com)  
-- **LinkedIn**: [Fathima Sameerah](www.linkedin.com/in/fathima-sameerah-000401219)  
+- **Email**: [sameerahsamuil@gmail.com](mailto:sameerahsamuil@gmail.com)  
+- **LinkedIn**: [Fathima Sameerah]((https://www.linkedin.com/in/fathima-sameerah-000401219/)
 - **Portfolio**: [Fathima Sameerah](https://fathima-sameerah.github.io/My-Portfolio-Website/)  
 
 ---
