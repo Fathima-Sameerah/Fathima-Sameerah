@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Fathima Sameerah  
 
-<!--
-**Fathima-Sameerah/Fathima-Sameerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+🌟 Undergraduate in Information Communication Technology
+🎓 Specialized in Software Technology | Web Developer 
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+
+- **Languages**: Java, JavaScript, Python, C, C#, HTML, CSS  
+- **Frameworks/Libraries**: React.js, Node.js, Express.js  
+- **Databases**: MongoDB, Firebase  
+- **Tools**: Git, Figma, Visual Studio Code  
+
+---
+
+## 📈 Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced **React.js** concepts  
+- **Node.js** for backend development  
+- Exploring **AI in Web Development**  
+
+---
+
+## 📫 Let's Connect  
+
+- **Email**: [your.email@example.com](mailto:sameerahsamuil@gnail.com)  
+- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname)  
+- **Portfolio**: [Your Portfolio](https://yourportfolio.com)  
+
+---
+
+✨ Feel free to explore and reach out for collaborations or any exciting opportunities! 😊  
+
