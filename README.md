@@ -24,10 +24,9 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📈 Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+### 📊 GitHub Stats  
+![Sameerah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathima-sameerah&show_icons=true&title_color=39FF14&text_color=E5E5E5&icon_color=00FFFF&bg_color=1D1F21&border_color=FF00FF)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathima-sameerah&layout=compact&title_color=39FF14&text_color=E5E5E5&bg_color=1D1F21&border_color=FF00FF)
 
 ---
 
