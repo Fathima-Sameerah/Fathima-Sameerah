@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 ## 📫 Let's Connect  
 
 - **Email**: [sameerahsamuil@gmail.com](mailto:sameerahsamuil@gmail.com)  
-- **LinkedIn**: {Fathima Sameerah](https://www.linkedin.com/in/fathima-sameerah-000401219/)
+- **LinkedIn**: [Fathima Sameerah](https://www.linkedin.com/in/fathima-sameerah-000401219/)
 - **Portfolio**: [Fathima Sameerah](https://fathima-sameerah.github.io/My-Portfolio-Website/)  
 
 ---
