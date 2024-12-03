@@ -39,5 +39,5 @@ Welcome to my GitHub profile!
 
 ---
 
-✨ Feel free to explore and reach out for collaborations or any exciting opportunities! 😊  
+✨ Feel free to explore and reach out for collaborations or any exciting opportunities!😊  
 
